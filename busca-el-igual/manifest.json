@@ -1,0 +1,252 @@
+{
+  "estrella": [
+    "estrella-1.svg",
+    "estrella-2.svg",
+    "estrella-3.svg",
+    "estrella-4.svg",
+    "estrella-5.svg",
+    "estrella-6.svg",
+    "estrella-7.svg",
+    "estrella-8.svg"
+  ],
+  "oruga": [
+    "oruga-1.svg",
+    "oruga-2.svg",
+    "oruga-3.svg",
+    "oruga-4.svg",
+    "oruga-5.svg",
+    "oruga-6.svg",
+    "oruga-7.svg",
+    "oruga-8.svg"
+  ],
+  "perro": [
+    "perro-1.svg",
+    "perro-2.svg",
+    "perro-3.svg",
+    "perro-4.svg",
+    "perro-5.svg",
+    "perro-6.svg",
+    "perro-7.svg",
+    "perro-8.svg"
+  ],
+  "pez": [
+    "pez-1.svg",
+    "pez-2.svg",
+    "pez-3.svg",
+    "pez-4.svg",
+    "pez-5.svg",
+    "pez-6.svg",
+    "pez-7.svg",
+    "pez-8.svg"
+  ],
+  "caracol": [
+    "caracol-1.svg",
+    "caracol-2.svg",
+    "caracol-3.svg",
+    "caracol-4.svg",
+    "caracol-5.svg",
+    "caracol-6.svg",
+    "caracol-7.svg",
+    "caracol-8.svg"
+  ],
+  "mariquita": [
+    "mariquita-1.svg",
+    "mariquita-2.svg",
+    "mariquita-3.svg",
+    "mariquita-4.svg",
+    "mariquita-5.svg",
+    "mariquita-6.svg",
+    "mariquita-7.svg",
+    "mariquita-8.svg"
+  ],
+  "mariposa": [
+    "mariposa-1.svg",
+    "mariposa-2.svg",
+    "mariposa-3.svg",
+    "mariposa-4.svg",
+    "mariposa-5.svg",
+    "mariposa-6.svg",
+    "mariposa-7.svg",
+    "mariposa-8.svg"
+  ],
+  "pulpo": [
+    "pulpo-1.svg",
+    "pulpo-2.svg",
+    "pulpo-3.svg",
+    "pulpo-4.svg",
+    "pulpo-5.svg",
+    "pulpo-6.svg",
+    "pulpo-7.svg",
+    "pulpo-8.svg"
+  ],
+  "cangrejo": [
+    "cangrejo-1.svg",
+    "cangrejo-2.svg",
+    "cangrejo-3.svg",
+    "cangrejo-4.svg",
+    "cangrejo-5.svg",
+    "cangrejo-6.svg",
+    "cangrejo-7.svg",
+    "cangrejo-8.svg"
+  ],
+  "tortuga": [
+    "tortuga-1.svg",
+    "tortuga-2.svg",
+    "tortuga-3.svg",
+    "tortuga-4.svg",
+    "tortuga-5.svg",
+    "tortuga-6.svg",
+    "tortuga-7.svg",
+    "tortuga-8.svg"
+  ],
+  "robot": [
+    "robot-1.svg",
+    "robot-2.svg",
+    "robot-3.svg",
+    "robot-4.svg",
+    "robot-5.svg",
+    "robot-6.svg",
+    "robot-7.svg",
+    "robot-8.svg"
+  ],
+  "cohete": [
+    "cohete-1.svg",
+    "cohete-2.svg",
+    "cohete-3.svg",
+    "cohete-4.svg",
+    "cohete-5.svg",
+    "cohete-6.svg",
+    "cohete-7.svg",
+    "cohete-8.svg"
+  ],
+  "helado": [
+    "helado-1.svg",
+    "helado-2.svg",
+    "helado-3.svg",
+    "helado-4.svg",
+    "helado-5.svg",
+    "helado-6.svg",
+    "helado-7.svg",
+    "helado-8.svg"
+  ],
+  "fantasma": [
+    "fantasma-1.svg",
+    "fantasma-2.svg",
+    "fantasma-3.svg",
+    "fantasma-4.svg",
+    "fantasma-5.svg",
+    "fantasma-6.svg",
+    "fantasma-7.svg",
+    "fantasma-8.svg"
+  ],
+  "monstruito": [
+    "monstruito-1.svg",
+    "monstruito-2.svg",
+    "monstruito-3.svg",
+    "monstruito-4.svg",
+    "monstruito-5.svg",
+    "monstruito-6.svg",
+    "monstruito-7.svg",
+    "monstruito-8.svg"
+  ],
+  "nube": [
+    "nube-1.svg",
+    "nube-2.svg",
+    "nube-3.svg",
+    "nube-4.svg",
+    "nube-5.svg",
+    "nube-6.svg",
+    "nube-7.svg",
+    "nube-8.svg"
+  ],
+  "hongo": [
+    "hongo-1.svg",
+    "hongo-2.svg",
+    "hongo-3.svg",
+    "hongo-4.svg",
+    "hongo-5.svg",
+    "hongo-6.svg",
+    "hongo-7.svg",
+    "hongo-8.svg"
+  ],
+  "dino": [
+    "dino-1.svg",
+    "dino-2.svg",
+    "dino-3.svg",
+    "dino-4.svg",
+    "dino-5.svg",
+    "dino-6.svg",
+    "dino-7.svg",
+    "dino-8.svg"
+  ],
+  "flor": [
+    "flor-1.svg",
+    "flor-2.svg",
+    "flor-3.svg",
+    "flor-4.svg",
+    "flor-5.svg",
+    "flor-6.svg",
+    "flor-7.svg",
+    "flor-8.svg"
+  ],
+  "torta": [
+    "torta-1.svg",
+    "torta-2.svg",
+    "torta-3.svg",
+    "torta-4.svg",
+    "torta-5.svg",
+    "torta-6.svg",
+    "torta-7.svg",
+    "torta-8.svg"
+  ],
+  "conejo": [
+    "conejo-1.svg",
+    "conejo-2.svg",
+    "conejo-3.svg",
+    "conejo-4.svg",
+    "conejo-5.svg",
+    "conejo-6.svg",
+    "conejo-7.svg",
+    "conejo-8.svg"
+  ],
+  "buho": [
+    "buho-1.svg",
+    "buho-2.svg",
+    "buho-3.svg",
+    "buho-4.svg",
+    "buho-5.svg",
+    "buho-6.svg",
+    "buho-7.svg",
+    "buho-8.svg"
+  ],
+  "abeja": [
+    "abeja-1.svg",
+    "abeja-2.svg",
+    "abeja-3.svg",
+    "abeja-4.svg",
+    "abeja-5.svg",
+    "abeja-6.svg",
+    "abeja-7.svg",
+    "abeja-8.svg"
+  ],
+  "rana": [
+    "rana-1.svg",
+    "rana-2.svg",
+    "rana-3.svg",
+    "rana-4.svg",
+    "rana-5.svg",
+    "rana-6.svg",
+    "rana-7.svg",
+    "rana-8.svg"
+  ],
+  "pollito": [
+    "pollito-1.svg",
+    "pollito-2.svg",
+    "pollito-3.svg",
+    "pollito-4.svg",
+    "pollito-5.svg",
+    "pollito-6.svg",
+    "pollito-7.svg",
+    "pollito-8.svg"
+  ]
+}
